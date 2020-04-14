@@ -1,20 +1,24 @@
 body {
-  background-color: #000000;
-  color: #CCCCCC;
-  font-family: monospace;
-  width:80%;
-  margin-left:auto;
-  margin-right:auto;
+    background-color: #FEFEFE;
+    color: #454545;
+    font-family: "Open Sans", Arial;
+    font-size: 16px;
+    max-width: 800px;
+    margin: 2em auto;
+    max-width: 800px;
+    padding: 1em;
+    line-height: 1.4;
+    text-align: justify;
 }
 
 a:visited, a:link, a:active {
-    color: #FFFFFF;
+    color: #07A;
     text-decoration: none;
     font-size: 16px;
 }
 
 a:hover {
-    color: #00FF00;
+    color: #07F;
     text-decoration: none;
     font-size: 16px;	
 }
@@ -25,7 +29,7 @@ p {
 }
 
 h1 {
-    color: #04B404; 
+   
     text-align: center;
     font-size: 32px;
 }
@@ -47,8 +51,4 @@ h3 {
 #startpagelink {
     font-size: 24px;
     display: inline;
-}
-
-hr {
-	border-top: 4px double #8c8b8b;
 }
