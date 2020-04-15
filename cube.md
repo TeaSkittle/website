@@ -1,5 +1,7 @@
 ### My Cube Method
 
+***
+
 ## Disclaimer
 This method for solving a cube should be considered an intermediate to advanced method. In this explanation I am assuming you know the basics of solving a cube, so I will be not going into a ton of depth on the details. If you are looking for a tutorial on how to solve for beginners, I recommend the [8355 Method](http://cube.crider.co.uk/beginner.php). The 8355 method uses only one algorithm throughout the entire solve and (the last step was used as inspiration in my method). Also I am not a particually fast solver, and this method is not meant for speed or to replace any of the other methods out there. I simply created this method while having fun experimenting, and came to really enjoy solving with it. Hope you enjoy using it as much as I do.
 
