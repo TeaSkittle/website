@@ -16,7 +16,6 @@ I'm just your ordinary geek, hope you find some interesting things here.
 -   [Github](https://github.com/TeaSkittle/) - My projects which are hosted on Github
 -   [Gallery](/gallery.html) - A collection of my pixel art.
 -   [The Cabin](/cabin.html) - A simple choose your own adventure game wirtten in python using ncurses
--   [cm/360 calculator](/cm360.html) - A tool for measuring mouse sensitivty in FPS games
 -   [HolyC](/holyc.html) - My basic work with the language HolyC by Terry A. Davis(December 15, 1969 -- August 11, 2018)
 
 ## Links
