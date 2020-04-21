@@ -2,6 +2,8 @@
 
 ## About
 
+***
+
 I'm just your ordinary geek, hope you find some interesting things here.
 
 ## Projects
