@@ -1,16 +1,25 @@
 #!/usr/bin/perl
-# makefile for website ( markdown to HTML )
+# (c) Travis Dowd
+# 
+# convert markdown to HTML using pandoc
+#
+# usage: perl cnv.pl page.md Title
+#
 use strict;
 use warnings;
 # get filename and change extension to html
 my $file = $ARGV[0];
 $file =~ s/md/html/;
+# Get header name
+my $name = $ARGV[1];
 # Add head/body/tail elements and create temp file
 head();
 body();
 tail();
 # Call pandoc and convert file
 system( "pandoc temp -f markdown -t html -o $file" );
+# Move file to html folder
+system( "mv $file html/" );
 # cleanup/remove temp file
 unlink "temp";
 # function for html head
@@ -19,10 +28,15 @@ sub head {
     print( $fh "<html>\n" );
     print( $fh "<head>\n" );
     print( $fh "<meta charset=\"UTF-8\">\n" );
+    print( $fh "<!-- Thanks to: https://github.com/xz for the awesome CSS theme -->" );
     print( $fh "<link href=\"style.css\" rel=\"stylesheet\">\n" );
-    print( $fh "<title>$file</title>\n" );
+    print( $fh "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/open-fonts\@1.1.1/fonts/inter.min.css\">\n" );
+    print( $fh "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/\@exampledev/new.css\@1.1.2/new.min.css\">\n" );
+    print( $fh "<link rel=\"stylesheet\" href=\"https://newcss.net/theme/terminal.css\">\n" );
+    print( $fh "<title>$name</title>\n" );
     print( $fh "</head>\n" );
     print( $fh "<body>\n" );
+    print( $fh "<header><h1>$name</h1></header>\n" );
     close( $fh );
 }
 # function for center of file

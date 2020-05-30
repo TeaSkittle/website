@@ -1,14 +1,8 @@
-# Home
-
 ## About
-
-***
 
 I'm just your ordinary geek, hope you find some interesting things here.
 
 ## Projects
-
-***
 
 -   [start page](/startpage.html) - My homepage for the internet
 -   [cube](/cube.html) - My method for solving a rubik\'s cube
@@ -19,8 +13,6 @@ I'm just your ordinary geek, hope you find some interesting things here.
 -   [HolyC](/holyc.html) - My basic work with the language HolyC by Terry A. Davis(December 15, 1969 -- August 11, 2018)
 
 ## Links
-
-***
 
 Various blogs and personal websites that I follow and enjoy.
 
