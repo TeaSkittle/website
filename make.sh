@@ -4,8 +4,15 @@
 #
 # make file for simple website
 
-basename -s .md *md | grep -v "README" > temp
+# convert from markdown to html
+for file in md/*.md
+do
+  name=$(basename -s .md "$file")
+  perl cnv.pl "$file" "$name"
+done
 
-while read p; do
-  perl cnv.pl $p.md $p
-done <temp
+# Change to html file extension
+for file in html/*.md
+do
+  mv "$file" "${file%.md}.html"
+done

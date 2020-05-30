@@ -3,10 +3,11 @@
 # 
 # convert markdown to HTML using pandoc
 #
-# usage: perl cnv.pl page.md Title
+# usage: perl cnv.pl page.md
 #
 use strict;
 use warnings;
+use File::Basename;
 # get filename and change extension to html
 my $file = $ARGV[0];
 $file =~ s/md/html/;
@@ -18,8 +19,6 @@ body();
 tail();
 # Call pandoc and convert file
 system( "pandoc temp -f markdown -t html -o $file" );
-# Move file to html folder
-system( "mv $file html/" );
 # cleanup/remove temp file
 unlink "temp";
 # function for html head
