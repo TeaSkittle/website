@@ -14,6 +14,4 @@ sh make.sh
 
 ## Notes
 
-This isn't all of the websites code, I stiull need to rewrite the other
-pages in Markdown, and I also do not have the image files here either. (
-will add them eventually ).  
+This isn't all of the website's code, I still need to rewrite the other pages in Markdown, and I also do not have the image files here either (will add them eventually).  
