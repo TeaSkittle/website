@@ -1,8 +1,4 @@
-# The Cabin
-
 ## About
-
-***
 
 I would like to share a simple text adventure I made when I began
 programming. There is a simple cli version(game.py, works on windows)
@@ -15,7 +11,5 @@ I am now working on a more proper text adventure in C which has actual
 parsing, I will post it on this site once it\'s complete.
 
 ## Download
-
-***
 
 -   [The Cabin](https://gitlab.com/TeaSkittle/the-cabin/)

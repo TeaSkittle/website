@@ -1,8 +1,3 @@
-
-# Situational Chess
-
-***
-
 ## Overview
 
 
@@ -113,7 +108,6 @@ the dice-to-piece conversions:
 -   1 = Pawn
 
 ## Now play some Chess!
-
 
 Seriously, from here just play chess as normal. This is a great way to
 learn endgame principles, practice tactics, and just overall have a fun
