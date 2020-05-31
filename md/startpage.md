@@ -1,6 +1,6 @@
 ## School
 
-[clockify](https://clockify.me/tracker/) [canvas](https://stech.instructure.com/login/canvas) [vital_source](https://bookshelf.vitalsource.com/#/user/signin)
+[clockify](https://clockify.me/tracker/) ~ [canvas](https://stech.instructure.com/login/canvas) [vital_source](https://bookshelf.vitalsource.com/#/user/signin)
 
 ## Video
 
