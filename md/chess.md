@@ -13,7 +13,7 @@ Synapse](http://www.frozensynapse.com/). In that game you play as small
 squad in a unique simultaneous/turn-based hybrid. Here is a simple
 screenshot to give you an idea of the game:
 
-![](pics/frozen.png)
+![](/pics/frozen.png)
 
 There is a style of play in the game where both the map and armies are
 randomly generated, but it is done so in a balanced fashion. So I took
@@ -81,7 +81,7 @@ they want as long as they do not go against these following rules:
 
 An example starting position:
 
-![](pics/start.png)
+![](/pics/start.png)
 
 ## Misc Rules
 
