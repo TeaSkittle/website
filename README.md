@@ -14,3 +14,4 @@ git clone https://github.com/TeaSkittle/website
 cd website
 sh make.sh
 ```
+A special thanks to: https://github.com/xz for the awesome CSS theme!
