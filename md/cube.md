@@ -16,7 +16,7 @@ This method can be seen as a hybrid between: [roux](http://grrroux.free.fr/metho
 
 ### Step 1 - 3x2x1 Block
 
-![](pics/step1.png)  
+![](/pics/step1.png)  
 
 This step is exactly the same as the first step of the [Roux method](http://grrroux.free.fr/method/Step_1.html). You are free to build anyway you would like, you just have to build a 3x2x1 block on the Down/Left side. I usually use the green/white block and will be using that here orientation for this explanation as well.
 
