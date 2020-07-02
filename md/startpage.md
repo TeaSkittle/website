@@ -10,11 +10,16 @@
 
 [poolsidefm](https://poolside.fm/) ~ [music4code](https://musicforprogramming.net/) ~ [ponyvillefm](https://ponyvillefm.com/player)
 
-## Boards
+## Gaming
 
-[reddit](https://www.reddit.com/) ~ [hacker_news](https://news.ycombinator.com/news) ~ [lainchan](https://www.lainchan.org/)
+[team_liquid](https://tl.net/) ~ [esreality](https://www.esreality.com/) ~ [shoryuken](https://shoryuken.com/)
 
 ## Other
 
-[github](https://github.com/) ~ [pocket](https://app.getpocket.com/) ~ [simple_note](https://app.simplenote.com/)
+[github](https://github.com/) ~ [pocket](https://app.getpocket.com/) ~ [dropbox](https://www.dropbox.com/h)
+
+## Boards
+
+[reddit](https://www.reddit.com/) ~ [hacker_news](https://news.ycombinator.com/news) ~ [lainchan](https://www.lainchan.org/) ~ [black_hat_world](https://www.blackhatworld.com/) ~ [0x00sec](https://0x00sec.org/)
+
 
