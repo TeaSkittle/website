@@ -12,14 +12,13 @@
 
 ## Gaming
 
-[team_liquid](https://tl.net/) ~ [esreality](https://www.esreality.com/) ~ [shoryuken](https://shoryuken.com/)
-
-## Other
-
-[github](https://github.com/) ~ [pocket](https://app.getpocket.com/) ~ [dropbox](https://www.dropbox.com/h)
+[team_liquid](https://tl.net/) ~ [esreality](https://www.esreality.com/) ~ [shoryuken](https://shoryuken.com/) ~ [steam_charts](https://steamcharts.com/) ~ [mouse_sensitivity](https://www.mouse-sensitivity.com/)
 
 ## Boards
 
 [reddit](https://www.reddit.com/) ~ [hacker_news](https://news.ycombinator.com/news) ~ [lainchan](https://www.lainchan.org/) ~ [black_hat_world](https://www.blackhatworld.com/) ~ [0x00sec](https://0x00sec.org/)
 
+## Other
+
+[github](https://github.com/) ~ [pocket](https://app.getpocket.com/) ~ [dropbox](https://www.dropbox.com/h)
 
