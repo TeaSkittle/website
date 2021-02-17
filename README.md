@@ -1,5 +1,7 @@
 # Website
 
+> This source code is old, everything on the site is plain HTML/CSS now
+
 Source code for my personal website at: https://teaskittle.neocities.org/ . All the website's code is written in Markdown and converted to HTML using pandoc.
 
 * `md/` - The Markdown source code for the site
